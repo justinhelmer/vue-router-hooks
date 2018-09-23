@@ -1,0 +1,16 @@
+{
+  "name": "vue-router-hooks",
+  "version": "0.1.0",
+  "description": "Recursively run hooks before resolving routes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinhelmer/vue-router-hooks.git"
+  },
+  "author": "Justin Helmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinhelmer/vue-router-hooks/issues"
+  },
+  "homepage": "https://github.com/justinhelmer/vue-router-hooks#readme"
+}
